@@ -1,6 +1,6 @@
-<img src="img/Avatar.png" align="right" height="120" width="120" >
 
-# Astro
+![Alt Text](img/git0.gif)
+
 [![](https://img.shields.io/badge/astro-v3.0-black)](https://bridgeit.tech/astro)
 [![](https://img.shields.io/badge/bridgeit.tech-web-blue)](https://bridgeit.tech)
 
