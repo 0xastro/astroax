@@ -1,4 +1,3 @@
-
 <img src="img/git0.gif" width="425"/> <img src="img/git1.gif" width="425"/> 
 
 
