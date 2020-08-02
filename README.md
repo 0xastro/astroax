@@ -1,5 +1,7 @@
+![](img/git0.gif") ![](img/git1.gif")
 
-![Alt Text](img/git0.gif)
+<img src="img/git0.gif" />
+<img src="img/git1.gif" />
 
 [![](https://img.shields.io/badge/astro-v3.0-black)](https://bridgeit.tech/astro)
 [![](https://img.shields.io/badge/bridgeit.tech-web-blue)](https://bridgeit.tech)
