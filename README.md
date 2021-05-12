@@ -1,7 +1,7 @@
 
-| [![](https://github.com/astro7x/astro7x/blob/master/img/git0.gif)](https://bridgeit.tech/astro)  | [![](https://github.com/astro7x/astro7x/blob/master/img/git1.gif)](https://bridgeit.tech/astro) 
+| [![](https://github.com/astro7x/astro7x/blob/master/img/git0.gif)](https://www.astroa.net)  | [![](https://github.com/astro7x/astro7x/blob/master/img/git1.gif)](https://www.astroa.net) 
 |:---:|:---:|
 
 
-[![](https://img.shields.io/badge/astro-v3.0-black)](https://bridgeit.tech/astro)
-[![](https://img.shields.io/badge/bridgeit.tech-web-blue)](https://bridgeit.tech)
+[![](https://img.shields.io/badge/astro-v3.1-black)](https://www.astroa.net)
+[![](https://img.shields.io/badge/astroa.net-web-blue)](https://www.astroa.net)
