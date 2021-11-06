@@ -1,5 +1,5 @@
 
-| [![](https://github.com/astro7x/astro7x/blob/master/img/git0.gif)](https://www.astroa.net)  | [![](https://github.com/astro7x/astro7x/blob/master/img/git1.gif)](https://www.astroa.net) 
+| [![](https://github.com/astro7x/astro7x/blob/master/img/git0.gif)](https://www.astroa.net)  | [![](https://github.com/astro7x/astro7x/blob/master/img/git1.1.gif)](https://www.astroa.net) 
 |:---:|:---:|
 
 
