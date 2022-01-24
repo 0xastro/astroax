@@ -6,6 +6,3 @@
 [![](https://img.shields.io/badge/astro-v3.1-black)](https://www.astroa.net)
 [![](https://img.shields.io/badge/astroa.net-web-blue)](https://www.astroa.net)
 
-Donate or buy a cat [!()0xac733dbec4bb2500c14c7782c0510fc7c2ac74a2](https://opensea.io/Nephythys)
-
--- Merci Beaucoup
